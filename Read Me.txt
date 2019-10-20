@@ -1,0 +1,18 @@
+Project Name: Computer Shop Management System
+
+Project Developer: R. Ranjith
+
+Developer's UID: 11805044
+
+Languages Handled in Project: Basics of BASIC and C++
+
+Preferred IDE for Execution: Dev C++
+
+IDE Link: https://bit.ly/2dHyEhN
+
+User Manual:
+              Right after the Execution of the application, it prompts the user for Selection of two options Administrator Access and Customer Access.
+              Depending upon the input from the user, it continuously gets a series of input from the user and manipulates it and finally displays a user - friendly
+              output to the user as well as the Administrator.
+
+Uses: Computer Shop Management System is mainly targeted to the user and customer who don't have any prior knowledge about Computer and it's Software applications.
